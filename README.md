@@ -1,4 +1,4 @@
-# 🚨 Hộp Đen Giám Sát An Toàn Xe Điện / Đi Bộ Học Sinh (AI TinyML & Blynk IoT)
+# 🚨 Hộp Đen Giám Sát An Toàn Xe Điện (AI TinyML & Blynk IoT)
 
 Dự án nghiên cứu khoa học kỹ thuật xuất sắc, tích hợp Trí tuệ nhân tạo biên cục bộ (Edge AI/TinyML) sử dụng mô hình 1D-CNN và Nền tảng điều khiển IoT Blynk nhằm giám sát hành trình, phát hiện hành vi lái xe loạng choạng nguy hiểm và cảnh báo đổ ngã, tai nạn khẩn cấp theo thời gian thực.
 
