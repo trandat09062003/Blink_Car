@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=VCC Pin=P2-2
+Removed Pin From Net: NetName=RST_SIM Pin=P2-3
+Removed Pin From Net: NetName=TX_SIM Pin=P2-4
+Removed Pin From Net: NetName=RX_SIM Pin=P2-5
+Change Component Comment : Designator=P2 Old Comment=SIM New Comment=I/O
+Added Component: Designator=P2(HDR1X6)
+Added Pin To Net: NetName=VCC Pin=P2-1
+Added Pin To Net: NetName=VCC Pin=P2-2
+Added Pin To Net: NetName=RST_SIM Pin=P2-3
+Added Pin To Net: NetName=TX_SIM Pin=P2-4
+Added Pin To Net: NetName=RX_SIM Pin=P2-5
+Added Pin To Net: NetName=GND Pin=P2-6
+Added Pin To Net: NetName=D32 Pin=P2-4
+Added Pin To Net: NetName=D32 Pin=U3-8
+Added Net: Name=D32
+Added Pin To Net: NetName=D33 Pin=P2-5
+Added Pin To Net: NetName=D33 Pin=U3-9
+Added Net: Name=D33
+Added Pin To Net: NetName=D34 Pin=P2-2
+Added Pin To Net: NetName=D34 Pin=U3-6
+Added Net: Name=D34
+Added Pin To Net: NetName=D35 Pin=P2-3
+Added Pin To Net: NetName=D35 Pin=U3-7
+Added Net: Name=D35
+Added Room: Name=Sheet3_CBLX

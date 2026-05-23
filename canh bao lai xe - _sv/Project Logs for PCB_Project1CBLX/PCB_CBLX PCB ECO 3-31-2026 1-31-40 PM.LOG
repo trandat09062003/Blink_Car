@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=VCC Pin=P2-1
+Removed Pin From Net: NetName=D34 Pin=P2-2
+Removed Pin From Net: NetName=D35 Pin=P2-3
+Removed Pin From Net: NetName=D32 Pin=P2-4
+Removed Pin From Net: NetName=D33 Pin=P2-5
+Removed Pin From Net: NetName=GND Pin=P2-6
+Removed Pin From Net: NetName=VCC Pin=SP1-1
+Change Component Footprint: Designator=C1 Old Footprint=CM-0805 New Footprint=cap0603
+Change Component Footprint: Designator=C2 Old Footprint=CM-0805 New Footprint=cap0603
+Change Component Footprint: Designator=C3 Old Footprint=CM-0805 New Footprint=cap0603
+Change Component Footprint: Designator=C4 Old Footprint=CM-0805 New Footprint=cap0603
+Change Component Footprint: Designator=C5 Old Footprint=CM-0805 New Footprint=cap0603
+Change Component Footprint: Designator=C6 Old Footprint=CM-0805 New Footprint=cap0603
+Change Component Footprint: Designator=C7 Old Footprint=CM-0805 New Footprint=cap0603
+Change Component Footprint: Designator=R1 Old Footprint=CM-0805 New Footprint=cap0603
+Change Component Footprint: Designator=R2 Old Footprint=CM-0805 New Footprint=cap0603
+Change Component Footprint: Designator=R3 Old Footprint=CM-0805 New Footprint=cap0603
+Change Component Footprint: Designator=R4 Old Footprint=CM-0805 New Footprint=cap0603
+Change Component Footprint: Designator=R5 Old Footprint=CM-0805 New Footprint=cap0603
+Change Component Footprint: Designator=R6 Old Footprint=CM-0805 New Footprint=cap0603
+Change Component Footprint: Designator=R7 Old Footprint=CM-0805 New Footprint=cap0603
+Change Component Footprint: Designator=R8 Old Footprint=CM-0805 New Footprint=cap0603
+Change Component Footprint: Designator=R9 Old Footprint=CM-0805 New Footprint=cap0603
+Change Component Designator: OldDesignator=C12 NewDesignator=C9
+Change Component Designator: OldDesignator=C13 NewDesignator=C10
+Change Component Designator: OldDesignator=C14 NewDesignator=C11
+Change Component Designator: OldDesignator=C15 NewDesignator=C12
+Change Component Designator: OldDesignator=C16 NewDesignator=C13
+Change Component Designator: OldDesignator=C17 NewDesignator=C14
+Change Component Designator: OldDesignator=C18 NewDesignator=C15
+Added Component: Designator=C8(CP1.5/3.4)
+Added Component: Designator=P2(HDR1X6)
+Added Component: Designator=P3(HDR1X6)
+Added Pin To Net: NetName=VCC Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=VCC Pin=P2-2
+Added Pin To Net: NetName=RST_SIM Pin=P2-3
+Added Pin To Net: NetName=TX_SIM Pin=P2-4
+Added Pin To Net: NetName=RX_SIM Pin=P2-5
+Added Pin To Net: NetName=GND Pin=P2-6
+Added Pin To Net: NetName=VCC Pin=P3-1
+Added Pin To Net: NetName=D34 Pin=P3-2
+Added Pin To Net: NetName=D35 Pin=P3-3
+Added Pin To Net: NetName=D32 Pin=P3-4
+Added Pin To Net: NetName=D33 Pin=P3-5
+Added Pin To Net: NetName=GND Pin=P3-6
+Added Pin To Net: NetName=VCC_OUT Pin=SP1-1
+Added Member To Class: ClassName=Sheet3_CBLX Member=Component C8 470uF/10V
+Added Member To Class: ClassName=Sheet3_CBLX Member=Component P3 I/O
+Added Room: Name=Sheet3_CBLX

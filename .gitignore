@@ -1,0 +1,26 @@
+# Arduino IDE compilation outputs
+/build/
+/libraries/*/build/
+
+# Local configuration overrides
+arduino-cli.yaml
+
+# Data files & generated datasets (large CSV files)
+dataset/*.csv
+!.gitkeep
+
+# Python cache & virtualenv
+__pycache__/
+*.pyc
+.env
+.venv/
+env/
+venv/
+*.egg-info/
+
+# Compiled models (TFLite binaries)
+model_data.tflite
+
+# Temporary / OS files
+.DS_Store
+Thumbs.db
